@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nomeibokoa.wstratto.ca/sitemap.xml
